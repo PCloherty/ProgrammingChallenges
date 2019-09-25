@@ -1,0 +1,11 @@
+.problemNumber{
+    font-size: 32px;
+}
+.problemSpecs{
+    color:red;
+}
+.answer{
+    border: 1px solid black;
+    background-color: grey;
+    
+}
